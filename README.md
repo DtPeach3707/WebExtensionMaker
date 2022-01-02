@@ -1,4 +1,4 @@
-# webExtensionMaker
+# WebExtensionMaker
 
 Commands to build web extension templates directly from the command line
 
