@@ -14,5 +14,5 @@ Run the following code in your terminal:
 
 <code>open ~/.custom_commands.sh</code> (This will open that file you created)
 
-At this point, copy-paste any function that you want from this repo in that file, making sure to have <code>#!bin/bash</code> on the top!<br>
+At this point, copy-paste any function that you want from the <code>shell</code> directory of this repo in that file, making sure to have <code>#!bin/bash</code> on the top!<br>
 Then, run <code>source ~/.custom_commands.sh</code> To update your file, and you should be good to go!
