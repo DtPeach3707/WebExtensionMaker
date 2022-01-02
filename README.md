@@ -1,6 +1,6 @@
 # WebExtensionMaker
 
-Commands to build web extension templates directly from the command line
+Scripts to build web extension templates directly from the command line
 
 # How to Put the Commands on Your Computer
 
