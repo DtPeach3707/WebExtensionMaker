@@ -38,7 +38,6 @@ function web-ext-init()
         read options
     done
     touch manifest.json
-    echo $extName
     echo "{" >| manifest.json
     printf '    "manifest_version": %s,\n' $maniVersion >> manifest.json
     echo '    "name": '  "\"$extName\"," >> manifest.json
